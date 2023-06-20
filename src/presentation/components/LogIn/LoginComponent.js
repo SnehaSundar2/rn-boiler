@@ -147,7 +147,7 @@ const LoginComponent = () => {
               </View>
             </View>
             <View>
-              <Text style={styles.header}>Don’t have an account ?</Text>
+              <Text style={styles.header}>Don’t have an account?</Text>
               <CustomButton
                 title="Register"
                 buttonStyle={styles.registerButton}
